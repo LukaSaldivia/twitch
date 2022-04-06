@@ -1,0 +1,39 @@
+body {
+    background-color:beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+    margin-top: 30px;
+  width: auto;
+  height: 150px;
+  
+ 
+}
+
+h1 {
+    text-align: center;
+}
+
+.loading{
+    margin-left: 9px;
+    margin-right:9px;
+    
+}
+
+.vid-box{
+    background-color: #cacaca;
+    border-radius: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    width:max-content;
+    display: flex;
+    margin-top: 2%;   
+}
+
+
+.cont
+{
+    margin-right: 30px;
+}
+
